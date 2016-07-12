@@ -12,7 +12,7 @@ git pull origin master
 
 git checkout -b fe-plamen (ONLY ONCE)
 
-git checkout <branch-name> to switch branches
+git checkout *branch-name* to switch branches
 
 git add <file-path> to add files for commit
 
