@@ -1,4 +1,4 @@
-# Plamen Marinov - devroom
+# devroom - Plamen Marinov
 
 You should upload your html, css and js files here.
 
