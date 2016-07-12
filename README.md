@@ -4,6 +4,7 @@ You should upload your html, css and js files here.
 
 Your working branch must be `fe-plamen`
 Workflow:
+
 git pull origin master
 git checkout -b fe-plamen (ONLY ONCE)
 git checkout <branch-name> to switch branches
